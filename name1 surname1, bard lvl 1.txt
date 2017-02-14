@@ -1,0 +1,3 @@
+race = 'lightfoot_halfling' 
+Fname = 'name1' 
+Lname = 'surname1' 
