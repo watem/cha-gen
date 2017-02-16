@@ -1,0 +1,21 @@
+Dragonborn
+Dwarf
+    hill
+    mountain
+    #gray dwarf
+Elves
+    high
+    wood
+    drow
+Gnome
+    forest
+    rock
+Half-elf
+Half-orc
+Halfling
+    lightfoot
+    stout
+Human
+Tiefling
+#Genasi
+#Goliath
